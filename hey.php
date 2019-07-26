@@ -5,9 +5,9 @@ Plugin URI: http://wordpress.org/plugins/hey-jude/
 Description: This is not just a plugin, it symbolizes the love between a father and his son.
 When activated you will randomly see a lyric from <cite>Hey Jude</cite> in the
 upper right of your admin screen on every page.
-Author: Marcos Gugeler
+Author: Marcos Rezende
 Version: 1.0.0
-Author URI: https://www.linkedin.com/in/marcosgugeler/
+Author URI: https://www.linkedin.com/in/rezendemarcos/
 */
 
 function hey_jude_get_lyric() {
