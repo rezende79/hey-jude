@@ -7,7 +7,7 @@ When activated you will randomly see a lyric from <cite>Hey Jude</cite> in the
 upper right of your admin screen on every page.
 Author: Marcos Rezende
 Version: 1.0.0
-Author URI: https://www.linkedin.com/in/rezendemarcos/
+Author URI: https://www.linkedin.com/in/rezehnde/
 */
 
 function hey_jude_get_lyric() {
